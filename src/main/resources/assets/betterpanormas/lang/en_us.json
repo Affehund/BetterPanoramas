@@ -1,0 +1,5 @@
+{ 
+  "betterpanoramas.success": "Successfully saved panorama in %s",
+  "betterpanoramas.failed": "Failed to save panorama!",
+  "betterpanoramas.key.take_panorama": "Take Panorama"
+}

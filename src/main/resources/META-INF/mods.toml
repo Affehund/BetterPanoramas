@@ -1,0 +1,14 @@
+modLoader="javafml" #mandatory
+loaderVersion="[34,)" #mandatory
+
+license="GNU GPLv3"
+issueTrackerURL="https://github.com/Affehund/BetterPanoramas/issues" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/betterpanoramas" #optional
+logoFile="logo.png" #optional
+authors="Affehund" #optional
+[[mods]] #mandatory
+modId="betterpanoramas" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Better Panoramas" #mandatory
+updateJSONURL="https://raw.githubusercontent.com/Affehund/BetterPanoramas/main/update.json" #optional
+description='''A mod to create panoramas and customize the main menu panorama.'''

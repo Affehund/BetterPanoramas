@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "betterpanoramas.refmap.json",
+  "package": "com.affehund.betterpanoramas.mixin",
+  "minVersion": "0.8",
+  "mixins": [
+    "RenderSkyboxMixin"
+  ]
+}
