@@ -1,6 +1,6 @@
-[![Curse Forge Project](http://cf.way2muchnoise.eu/versions/betterpanoramas.svg)](https://www.curseforge.com/minecraft/mc-mods/betterpanoramas/)
-[![Download](http://cf.way2muchnoise.eu/full_betterpanoramas_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/betterpanoramas/files/)
-[![Lines of Code](https://tokei.rs/b1/github/affehund/betterpanoramas?category=code)](https://github.com/Affehund/betterpanoramas)
+[![Curse Forge Project](http://cf.way2muchnoise.eu/versions/For%20Minecraft_452470_all.svg)](https://www.curseforge.com/minecraft/mc-mods/betterpanoramas/)
+[![Download](http://cf.way2muchnoise.eu/full_452470_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/betterpanoramas/files/)
+[![Lines of Code](http://tokei.rs/b1/github/affehund/BetterPanoramas?category=code)](https://github.com/Affehund/betterpanoramas)
 
 # BetterPanoramas
  A mod to create panoramas and customize the main menu panorama.
